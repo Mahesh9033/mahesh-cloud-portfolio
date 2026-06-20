@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="470" viewBox="0 0 780 470">
+<defs><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".20"/></filter></defs>
+<rect width="780" height="470" rx="24" fill="#f8fafc"/>
+<rect x="90" y="80" width="600" height="315" rx="28" fill="#0b1120" filter="url(#s)"/>
+<rect x="125" y="115" width="530" height="235" rx="18" fill="#020617" stroke="#1f2937" stroke-width="3"/>
+<circle cx="155" cy="145" r="8" fill="#ef4444"/><circle cx="180" cy="145" r="8" fill="#f59e0b"/><circle cx="205" cy="145" r="8" fill="#22c55e"/>
+<g stroke="#86efac" stroke-width="7" stroke-linecap="round">
+<path d="M155 205H345"/><path d="M155 250H430"/><path d="M155 295H375"/>
+</g>
+<g stroke="#38bdf8" stroke-width="7" stroke-linecap="round">
+<path d="M495 205H610"/><path d="M495 250H590"/><path d="M495 295H625"/>
+</g>
+<circle cx="455" cy="205" r="18" fill="#2563eb"/><circle cx="455" cy="250" r="18" fill="#06b6d4"/><circle cx="455" cy="295" r="18" fill="#22c55e"/>
+</svg>
