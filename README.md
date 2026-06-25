@@ -1,5 +1,4 @@
-Final mobile-fixed portfolio.
+Final mobile-fixed portfolio with updated CV PDF.
 
-Open index.html directly.
-
-Fix: project and skill images no longer overlap text on mobile phone view.
+Upload all files to the existing GitHub repository.
+The CV PDF filename is kept as Mahesh_Reddy_Cloud_Engineer_CV.pdf so the existing portfolio button/link works without changing HTML.
